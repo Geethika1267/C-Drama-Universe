@@ -12,8 +12,9 @@ See the full list here → [2025.md](watched/2025.md)
 
 ## ⭐ My Favorites
 - Hidden Love
-- Love Between Fairy and Devil
+- Flying Towards You
 - The Untamed
+- Moonlit Reunion
 
 ---
 
@@ -33,8 +34,12 @@ Check → [actor-list.md](actor-list.md)
 ## 📝 Reviews
 Detailed reviews are available in the *reviews* folder.
 
-- [Hidden Love Review](reviews/Hidden%20Love.md)
-
+- [Exclusive Fairytale](reviews/Exclusive%20Fairytale.md)
+- [Falling Into Your Smile](reviews/Falling%20Into%20Your%20Smile.md)
+- [Flying Towards You](reviews/Flying%20Towards%20You.md)
+- [Hidden Love](reviews/Hidden%20Love.md)
+- [Moonlit Reunion](reviews/Moonlit%20Reunion.md)
+  
 ---
 
 ## 📌 Watchlist
